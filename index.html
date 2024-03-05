@@ -457,17 +457,18 @@
                     </a>
                 </li>
             </ul>
-    
+                            <!--Subscription form -->
     
         </div>
-        <div class="subscription-form-footer">
+        <div class="subscription-form-container">
             <p class="subscription-form-text">Subscribe</p>
-            <form class="subscription-form-form">
-                <label for="user-email" class="subscription-form-label"></label>
+            <form class="subscription-form-wrapper">
+                <label  class="subscription-form-label">
             <input type="email" class="subscription-form-input" 
-            name="user-email" id="user-email"
-             required
-             placeholder="E-mail">
+             name="user-email-address"
+             placeholder="E-mail"
+             required>
+            </label>
            
             <button class="subscription-form-btn"
              type="submit">Subscribe
@@ -482,7 +483,7 @@
     </footer>
             <!--Backdrop -->
 
-      <div class="backdrop is-open" >
+      <div class="backdrop " >
         <div class="modal">
             <button class="modal-close-btn" type="button">
                 <svg class="model-close-btn"
