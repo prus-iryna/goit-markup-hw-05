@@ -631,7 +631,7 @@ margin-bottom: 16px;
 }
 /* ============== Review form styles ==============*/
 .review-form-field-wrapper{
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 
 
 }
@@ -699,7 +699,7 @@ margin-bottom: 4px;
 }
 .review-form-checkbox-wrapper
 {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 .review-form-checkbox-label{
         font-size: 12px;
