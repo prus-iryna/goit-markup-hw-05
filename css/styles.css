@@ -483,12 +483,11 @@ padding-bottom: 100px;
 /* ============== Subscription form styles ==============*/
 
 .subscription-form-container{
-    display: inline-flex;
     align-items: end;
     margin-left: 32px;
 }
 .subscription-form-wrapper{
-    display: flex;
+    display: inline-flex;
     gap: 24px;
 
 }
