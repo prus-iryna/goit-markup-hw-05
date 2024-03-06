@@ -484,7 +484,7 @@ padding-bottom: 100px;
 
 .subscription-form-container{
     align-items: end;
-    margin-left: 32px;
+    margin-left: 80px;
 }
 .subscription-form-wrapper{
     display: inline-flex;
@@ -538,7 +538,6 @@ margin-bottom: 16px;
         letter-spacing: 0.04em;
         text-align: center;
         color: #ffffff;
-        margin-left: 24px;
         cursor: pointer;
         align-items: center;
 }
@@ -625,7 +624,6 @@ margin-bottom: 16px;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    margin-top: 48px;
     margin-bottom: 16px;
 }
 /* ============== Review form styles ==============*/
@@ -741,10 +739,7 @@ margin-bottom: 4px;
 }
 .review-form-privacy-checkbox:focus+.review-form-checkbox-label .review-form-own-checkbox{
     border: 1px solid #404bbf;
-    fill: #ffffff;
-    background-color: #404bbf;
-    border:none;
-    fill: #F4F4FD;
+
 
 }
 .review-form-submit-btn{
